@@ -11,7 +11,8 @@
 
 ```typescript
 const dfujii = {
-  location: "Kyoto, Japan",
+  location: "Okayama, Japan",
+  company: "GO Inc.",
   stack: ["Go", "TypeScript", "React", "Nuxt.js", "Next.js", "Prisma", "Tailwind CSS"],
   aiTools: ["Claude Code"],
   interests: ["Web3", "DeFi", "Travel", "Competitive Programming"],
@@ -64,5 +65,5 @@ const dfujii = {
 ---
 
 <p align="center">
-  <i>Building from Kyoto with care.</i>
+  <i>Building from Okayama with care.</i>
 </p>
