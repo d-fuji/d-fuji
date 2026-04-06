@@ -13,7 +13,9 @@
 const dfujii = {
   location: "Okayama, Japan",
   company: "GO Inc.",
-  stack: ["Go", "TypeScript", "React", "Nuxt.js", "Next.js", "Prisma", "Tailwind CSS"],
+  stack: ["Go", "TypeScript", "React", "Nuxt.js", "Next.js", "Prisma", "Tailwind CSS", "PostgreSQL", "MySQL", "Docker"],
+  monitoring: ["Grafana", "Sentry", "Redash"],
+  data: ["Airflow"],
   aiTools: ["Claude Code"],
   interests: ["AI", "Product Development", "Finance", "Web3", "DeFi", "Travel"],
   currentlyBuilding: "Full-stack apps that solve real-world problems",
