@@ -12,7 +12,7 @@
 ```typescript
 const dfujii = {
   location: "Kyoto, Japan",
-  stack: ["TypeScript", "Next.js", "React", "Prisma", "Tailwind CSS"],
+  stack: ["Go", "TypeScript", "React", "Nuxt.js", "Next.js", "Prisma", "Tailwind CSS"],
   interests: ["Web3", "DeFi", "Travel", "Competitive Programming"],
   currentlyBuilding: "Full-stack apps that solve real-world problems",
 } as const;
@@ -21,7 +21,7 @@ const dfujii = {
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,prisma,postgresql,vercel,nodejs,python,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,nuxtjs,react,ts,nextjs,tailwind,prisma,postgresql,vercel,nodejs,python,docker&theme=dark" />
 </p>
 
 <details>
@@ -30,8 +30,8 @@ const dfujii = {
 
 | Category | Technologies |
 |----------|-------------|
-| **Frontend** | Next.js 16, React 19, Tailwind CSS 4, Framer Motion |
-| **Backend** | Node.js, Prisma 7, Auth.js v5 |
+| **Frontend** | React, Nuxt.js, Next.js 16, Tailwind CSS 4, Framer Motion |
+| **Backend** | Go, Node.js, Prisma 7, Auth.js v5 |
 | **Database** | PostgreSQL (Neon), Redis |
 | **Testing** | Vitest, Playwright, MSW |
 | **Infra** | Vercel, Docker |
