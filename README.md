@@ -39,56 +39,24 @@ const dfujii = {
 
 </details>
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### Museum Finder
-Web app to discover museums across Japan with interactive maps powered by MapLibre GL.
-<br><br>
-`Next.js` `Prisma` `MapLibre` `Auth.js`
-
-</td>
-<td width="50%">
-
-### Mile Optimizer
-Optimize airline miles with graph visualization using XYFlow and Dagre.
-<br><br>
-`Next.js` `XYFlow` `Dagre` `TanStack Table`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Monoswap
-**Polygon Hackathon Winner** - DeFi swap application built on Polygon network.
-<br><br>
-`TypeScript` `Solidity` `Web3`
-
-</td>
-<td width="50%">
-
-### Next Template
-Production-ready Next.js 16 starter with TDD workflow, custom Claude Code agents, and full CI setup.
-<br><br>
-`Next.js 16` `Oxlint` `Biome` `Playwright`
-
-</td>
-</tr>
-</table>
-
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=d-fuji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-fuji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&langs_count=8" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=d-fuji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=d-fuji&show_icons=true&theme=default&hide_border=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=d-fuji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&langs_count=8" />
+    <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=d-fuji&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-fuji&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=d-fuji&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+    <img src="https://streak-stats.demolab.com/?user=d-fuji&theme=default&hide_border=true" />
+  </picture>
 </p>
 
 ---
