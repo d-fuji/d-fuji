@@ -13,6 +13,7 @@
 const dfujii = {
   location: "Kyoto, Japan",
   stack: ["Go", "TypeScript", "React", "Nuxt.js", "Next.js", "Prisma", "Tailwind CSS"],
+  aiTools: ["Claude Code"],
   interests: ["Web3", "DeFi", "Travel", "Competitive Programming"],
   currentlyBuilding: "Full-stack apps that solve real-world problems",
 } as const;
@@ -21,7 +22,7 @@ const dfujii = {
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,nuxtjs,react,ts,nextjs,tailwind,prisma,postgresql,vercel,nodejs,python,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,nuxtjs,react,ts,nextjs,tailwind,prisma,postgresql,vercel,nodejs,docker&theme=dark" />
 </p>
 
 <details>
@@ -35,6 +36,7 @@ const dfujii = {
 | **Database** | PostgreSQL (Neon), Redis |
 | **Testing** | Vitest, Playwright, MSW |
 | **Infra** | Vercel, Docker |
+| **AI Tools** | Claude Code |
 | **Other** | Solidity, Rust, Ruby, Dart, C# |
 
 </details>
