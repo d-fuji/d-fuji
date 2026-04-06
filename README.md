@@ -15,7 +15,7 @@ const dfujii = {
   company: "GO Inc.",
   stack: ["Go", "TypeScript", "React", "Nuxt.js", "Next.js", "Prisma", "Tailwind CSS"],
   aiTools: ["Claude Code"],
-  interests: ["Web3", "DeFi", "Travel", "Competitive Programming"],
+  interests: ["AI", "Product Development", "Web3", "DeFi", "Travel", "Competitive Programming"],
   currentlyBuilding: "Full-stack apps that solve real-world problems",
 } as const;
 ```
