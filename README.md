@@ -23,7 +23,7 @@ const dfujii = {
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,nuxtjs,react,ts,nextjs,tailwind,prisma,postgresql,vercel,nodejs,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,nuxtjs,react,ts,nextjs,tailwind,prisma,postgresql,vercel,docker&theme=dark" />
 </p>
 
 <details>
@@ -33,7 +33,7 @@ const dfujii = {
 | Category | Technologies |
 |----------|-------------|
 | **Frontend** | React, Nuxt.js, Next.js 16, Tailwind CSS 4, Framer Motion |
-| **Backend** | Go, Node.js, Prisma 7, Auth.js v5 |
+| **Backend** | Go, Prisma 7, Auth.js v5 |
 | **Database** | PostgreSQL (Neon), Redis |
 | **Testing** | Vitest, Playwright, MSW |
 | **Infra** | Vercel, Docker |
