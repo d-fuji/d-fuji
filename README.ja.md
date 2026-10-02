@@ -1,10 +1,10 @@
-# Hi, I'm d-fuji 👋
+# d-fuji です 👋
 
-**English** | [日本語](./README.ja.md)
+[English](./README.md) | **日本語**
 
-Full-stack developer based in Okayama, Japan.
-Interested in AI, product development, and finance.
-I write about what I learn on [Zenn](https://zenn.dev/bigtree).
+岡山を拠点に、フルスタックエンジニアをしています。
+AI、プロダクト開発、金融に関心があります。
+学んだことは [Zenn](https://zenn.dev/bigtree) に書いています。
 
 <img src="https://skillicons.dev/icons?i=go,ts,react,nextjs,nuxtjs,tailwind,prisma,postgres,mysql,docker,vercel&theme=dark" alt="Go, TypeScript, React, Next.js, Nuxt.js, Tailwind CSS, Prisma, PostgreSQL, MySQL, Docker, Vercel" />
 
