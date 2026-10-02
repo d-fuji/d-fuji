@@ -3,7 +3,8 @@
 **English** | [日本語](./README.ja.md)
 
 Full-stack developer based in Okayama, Japan.
-Interested in AI, product development, and finance.
+4 years of professional experience building web apps end to end, from frontend to monitoring.
+I use AI agents in my daily development, and I am also interested in product development and finance.
 I write about what I learn on [Zenn](https://zenn.dev/bigtree).
 
 <img src="https://skillicons.dev/icons?i=go,ts,nextjs,nuxtjs,postgres,docker,sentry,grafana&theme=dark" alt="Go, TypeScript, Next.js, Nuxt.js, PostgreSQL, Docker, Sentry, Grafana" />
