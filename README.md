@@ -6,6 +6,6 @@ Full-stack developer based in Okayama, Japan.
 Interested in AI, product development, and finance.
 I write about what I learn on [Zenn](https://zenn.dev/bigtree).
 
-<img src="https://skillicons.dev/icons?i=go,ts,react,nextjs,nuxtjs,tailwind,prisma,postgres,mysql,docker,vercel&theme=dark" alt="Go, TypeScript, React, Next.js, Nuxt.js, Tailwind CSS, Prisma, PostgreSQL, MySQL, Docker, Vercel" />
+<img src="https://skillicons.dev/icons?i=go,ts,react,nextjs,nuxtjs,postgres,docker&theme=dark" alt="Go, TypeScript, React, Next.js, Nuxt.js, PostgreSQL, Docker" />
 
 [![Zenn](https://img.shields.io/badge/Zenn-bigtree-3EA8FF?logo=zenn&logoColor=white)](https://zenn.dev/bigtree)
