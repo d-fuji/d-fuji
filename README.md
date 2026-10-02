@@ -2,7 +2,7 @@
 
 **English** | [日本語](./README.ja.md)
 
-Full-stack developer based in Okayama, Japan. I have spent 4 years building web apps, from frontend and backend to operations. Currently building a subledger that connects service data to the accounting system.
+Full-stack developer working fully remotely from Japan. I have spent 4 years building web apps, from frontend and backend to operations. Currently building a subledger that connects service data to the accounting system.
 
 I work alongside AI agents every day, and I am also into product development and finance. I write about what I learn on [Zenn](https://zenn.dev/bigtree).
 
