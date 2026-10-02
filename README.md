@@ -1,4 +1,4 @@
-# Hi, I'm d-fuji 👋
+# Hi, I'm 6igtree 👋
 
 **English** | [日本語](./README.ja.md)
 

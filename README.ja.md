@@ -1,4 +1,4 @@
-# d-fuji です 👋
+# 6igtree です 👋
 
 [English](./README.md) | **日本語**
 
