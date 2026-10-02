@@ -4,6 +4,7 @@
 
 Full-stack developer based in Okayama, Japan.
 I have spent 4 years building web apps, from frontend and backend to operations.
+Currently building a subledger that connects service data to the accounting system.
 These days I build alongside AI agents, and I am also into product development and finance.
 I write about what I learn on [Zenn](https://zenn.dev/bigtree).
 
